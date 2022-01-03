@@ -12,7 +12,7 @@ body {
 }
 .container {
     column-width: 400px;
-    column-gap: 20px;
+    column-gap: 70px;
     column-rule: 4px dotted black;
 }
 
@@ -22,14 +22,9 @@ body {
 }
 
 img {
-    width: 400px;
-    height: 300px;
+    width: 100%;
+    height: auto;
     display: block;
     margin: auto;
     padding-bottom: 5px;
-}
-
-.vertical {
-    width: 400px;
-    height: 530px;
 }
