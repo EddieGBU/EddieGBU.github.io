@@ -1,0 +1,47 @@
+html {
+    font-family: 'Concert One', cursive;
+    text-align: center;
+}
+
+.Rounded {
+    box-shadow: 0px 0px 5px black;
+    border-radius: 50px;
+    padding-top: 1px;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.Title {
+    box-shadow: inset 0px -10px 20px 0px lightslategrey;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 20px;
+}
+
+.Container {
+    margin-bottom: 50px;
+    column-width: 400px;
+    column-gap: 70px;
+    column-rule: 4px dotted black;
+}
+
+.Card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    box-shadow: inset -10px -10px 20px 0px lightslategrey;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+    border-radius: 20px;
+    border: 10px solid lightslategrey
+}
+
+img {
+    width: auto;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-bottom: 5px;
+}
